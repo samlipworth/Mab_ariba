@@ -13,6 +13,6 @@ Whole-Genome Sequencing for Predicting Clarithromycin Resistance in Mycobacteriu
 Samuel Lipworth, Natasha Hough, Laura Leach, Marcus Morgan, Katie Jeffery, Monique Andersson, Esther Robinson, E. Grace Smith, Derrick Crook, Tim Peto, Timothy Walker
 Antimicrobial Agents and Chemotherapy Dec 2018, 63 (1) e01204-18; DOI: 10.1128/AAC.01204-18
 
-##Disclaimer
+## Disclaimer
 This has not been validated for clinical use and is purely a research tool. It should not be used to make clinical decisions.
 
